@@ -1,0 +1,218 @@
+name,type_line,colors,practical_cmc,cmc,practical_mana_pips,mana_pips,produced_mana,properties,oracle_id
+"Teferi, Time Raveler",Legendary Planeswalker — Teferi,UW,3,3,WU,WU,,,ae7604bb-4818-45a3-960c-cf3d83f15964
+Dreadhorde Arcanist,Creature — Zombie Wizard,R,2,2,R,R,,,4c05b382-58ab-4a2d-a81c-408ea273b6b6
+Monastery Mentor,Creature — Human Monk,W,3,3,W,W,,Threat,3979067a-9c68-443d-a85f-d9f07be880b9
+Ponder,Sorcery,U,1,1,U,U,,,02090581-61aa-4348-ad57-451be8ee91c2
+Preordain,Sorcery,U,1,1,U,U,,,ac641490-ca14-48d7-8cc4-b69ce984befa
+Brainstorm,Instant,U,1,1,U,U,,,36cd2364-d113-47d1-b2c4-b088d9eb88dd
+Daze,Instant,U,0,2,U,U,,,70486bee-6ee7-41ea-b834-8caf4699302b
+Force of Negation,Instant,U,0,3,,UU,,,ac2173f9-f223-440a-9231-fd98762bdc6f
+Force of Will,Instant,U,0,5,,UU,,,956381ba-6d37-4a8a-846c-bad79222dbee
+Lightning Bolt,Instant,R,1,1,R,R,,Answer,4457ed35-7c10-48c8-9776-456485fdf070
+Swords to Plowshares,Instant,W,1,1,W,W,,Answer,b1544f21-7e98-461b-aed5-e748b0168c52
+Arcum's Astrolabe,Snow Artifact,,1,1,,,BGRUW,,ec463bde-dadf-4044-8e41-71338fd4d62f
+Pithing Needle,Artifact,,1,1,,,,Answer,a188fe7e-68de-4c7c-806c-bfe8fc7b44bf
+Counterbalance,Enchantment,U,2,2,UU,UU,,,088dfd02-c0e0-41d1-9923-efe023fb2ad1
+Flooded Strand,Land,,0,0,,,UW,Fetch,f3c7af78-a77d-4134-82a2-a5ce84285a84
+Prismatic Vista,Land,,0,0,,,WUBRG,Fetch,032b8a0d-491a-4a12-ab9f-689010054d5b
+Scalding Tarn,Land,,0,0,,,UR,Fetch,cb027150-848c-4a66-88ad-e20222304dd8
+Snow-Covered Island,Basic Snow Land — Island,,0,0,,,U,Basic,5b2460a5-6ae5-4cad-ba94-1a9e98e6e4c0
+Snow-Covered Mountain,Basic Snow Land — Mountain,,0,0,,,R,Basic,ca9f660b-e07d-4f42-a46e-abd0ca72510c
+Snow-Covered Plains,Basic Snow Land — Plains,,0,0,,,W,Basic,ac8cc74d-e43b-4118-bba0-dfa8b9c04d45
+Tundra,Land — Plains Island,,0,0,,,UW,Dual,02418479-9455-417f-a6a1-004356faff37
+Volcanic Island,Land — Island Mountain,,0,0,,,RU,Dual,c718911c-c955-4eb9-9e16-be4bd49a4e4e
+Ancient Grudge,Instant,RG,2,2,RG,R,,,306593b0-6ea8-476f-a3f2-e17876c1bab4
+Blood Moon,Enchantment,R,3,3,R,R,,,94fac5fe-97d5-4c12-a80c-8efff9d853ae
+Court of Grace,Enchantment,W,4,4,WW,WW,,,f63c2438-27d4-449a-828f-f0a2ea86ff16
+Pyroblast,Instant,R,1,1,R,R,,,ecc435e2-deb1-420a-a79f-01dd08747314
+Pyroclasm,Sorcery,R,2,2,R,R,,,e4bcd4ea-e7cd-4471-8f3b-18bb51d3d70c
+Surgical Extraction,Instant,,1,1,,,,,3bfa088c-9a47-4123-aee5-4de44e355bef
+Torpor Orb,Artifact,,2,2,,,,,97326cad-b13c-4e52-82ce-850a39e5ff08
+Wear // Tear,Instant // Instant,RW,3,3,RW,RW,,,9842734c-1eac-4509-a731-4c22017ae586
+"Oko, Thief of Crowns",Legendary Planeswalker — Oko,GU,3,3,GU,GU,,Threat,60c60923-ff1b-43f7-8768-731499fcffc9
+Hullbreacher,Creature — Merfolk Pirate,U,3,3,U,U,BGRUW,,2f533667-e29b-4bec-897a-e7a9eee08314
+Ice-Fang Coatl,Snow Creature — Snake,GU,2,2,GU,GU,,,f4b1bbd1-f1b2-4c7d-bafd-9d2857f92a89
+"Uro, Titan of Nature's Wrath",Legendary Creature — Elder Giant,GU,3,3,GU,GU,,Threat,ee302659-59ed-4eef-babe-451b9ccf7f14
+Spell Pierce,Instant,U,1,1,U,U,,,d64b0848-0193-4025-ba62-63ecd8fb9f50
+Stifle,Instant,U,1,1,U,U,,,b3b00911-ece7-4484-bc36-f211ce72b6cc
+Sylvan Library,Enchantment,G,2,2,G,G,,,92eed395-62ca-4293-882b-8565c40daab5
+Misty Rainforest,Land,,0,0,,,UG,Fetch,09dd85aa-47bc-4713-a9b9-8b52ff2285ed
+Snow-Covered Forest,Basic Snow Land — Forest,,0,0,,,G,Basic,5f0d3be8-e63e-4ade-ae58-6b0c14f2ce6d
+Tropical Island,Land — Forest Island,,0,0,,,GU,Dual,74b7fe23-5d3a-4092-8d78-7c0eba8f6f73
+Wasteland,Land,,0,0,,,,Utility,09a70ae8-3859-4a09-901d-dce063fa3b5f
+Back to Basics,Enchantment,U,3,3,U,U,,,05c2dec2-d2f7-4036-b91f-4fccba10a8bb
+Court of Cunning,Enchantment,U,3,3,UU,UU,,,2ab88c99-aaa0-4a91-9225-0bbfba04b6bc
+"Klothys, God of Destiny",Legendary Enchantment Creature — God,GR,3,3,RG,RG,GR,Synergy_Only GSZ Threat,e8473969-195f-41ee-a84d-463cc8c0ef02
+Red Elemental Blast,Instant,R,1,1,R,R,,,bb329a5c-b9f9-4973-a53f-090024146325
+Relic of Progenitus,Artifact,,1,1,,,,,6a9c3401-570c-41cb-a605-75dfa57d6ab7
+Submerge,Instant,U,5,5,U,U,,,99427ebe-c00d-4206-84ca-9764f6e952c6
+Sulfur Elemental,Creature — Elemental,R,3,3,R,R,,,60e6a140-c7fb-4fbe-bd74-6bbb925080e7
+Veil of Summer,Instant,G,1,1,G,G,,,002965be-a36f-4a09-9ce0-c6535bca1703
+"Narset, Parter of Veils",Legendary Planeswalker — Narset,U,3,3,UU,UU,,,ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f
+Carpet of Flowers,Enchantment,G,1,1,G,G,BGRUW,,2ffc6372-f63b-4f32-8dd0-2d7938aeb412
+Wilt,Instant,G,2,2,G,G,,,77b6c3bb-bd05-4547-8f3e-9c50879973f1
+"Leovold, Emissary of Trest",Legendary Creature — Elf Advisor,BGU,3,3,BGU,BGU,,Threat,d5d91377-fd66-4dbe-a092-07f2ea379ca7
+Dead of Winter,Sorcery,B,3,3,B,B,,Answer,4d877c28-5276-4ea6-91c6-eeed890ca545
+Abrupt Decay,Instant,BG,2,2,BG,BG,,Answer,1c747fe2-289e-492a-a846-aa77707e2dc3
+Assassin's Trophy,Instant,BG,2,2,BG,BG,,Answer,ac10d218-f9a6-4058-9cda-a15ca1b0b7b5
+Cling to Dust,Instant,B,1,1,B,B,,,9c44e556-4c7a-48bf-a108-c584f69c2cfa
+Fatal Push,Instant,B,1,1,B,B,,Answer,16437a83-be52-44cd-a768-a767c9347eb2
+Karakas,Legendary Land,,0,0,,,W,Utility,59119143-c0fa-49dd-adf0-e2fd3029c48b
+Polluted Delta,Land,,0,0,,,UB,Fetch,ef86989d-ce80-4e55-aece-7d11710eeffa
+Snow-Covered Swamp,Basic Snow Land — Swamp,,0,0,,,B,Basic,d8239a86-7184-4005-ba1e-2dddcd756c47
+Underground Sea,Land — Island Swamp,,0,0,,,BU,Dual,4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b
+Containment Priest,Creature — Human Cleric,W,2,2,W,W,,,8a76a9b9-3127-45fe-b20f-a8f643276281
+Meddling Mage,Creature — Human Wizard,UW,2,2,WU,WU,,,a5d02339-9f6d-486e-87d8-5ec2274cf680
+Nihil Spellbomb,Artifact,,1,1,,,,,b713e49f-1b13-42d1-91f2-cc7a579e7614
+Plague Engineer,Creature — Carrier,B,3,3,B,B,,Answer,df130616-8efe-42ed-a7f0-b58bef3f11c4
+Flusterstorm,Instant,U,1,1,U,U,,,86bf58f2-7f25-4e10-b797-25e0e8e67769
+Ground Seal,Enchantment,G,2,2,G,G,,,13f6f960-ef79-4f2c-8874-90fe9e77099e
+"Gideon, Ally of Zendikar",Legendary Planeswalker — Gideon,W,4,4,WW,WW,,Threat,51eae7ff-fed9-4afe-8053-7690379449dd
+"Jace, the Mind Sculptor",Legendary Planeswalker — Jace,U,4,4,UU,UU,,Threat,7f77a84e-5a4b-4834-aefa-3cecc175ae8e
+Snapcaster Mage,Creature — Human Wizard,U,2,2,U,U,,,2bb2eda7-3b38-4c56-870f-c3218a1056f5
+Council's Judgment,Sorcery,W,3,3,WW,WW,,Answer,acf4d685-a718-42f7-9a7a-dee069ae8db2
+Supreme Verdict,Sorcery,UW,4,4,WWU,WWU,,Answer,0230de18-8d15-4cfa-9d42-7ccddd9f9570
+Terminus,Sorcery,W,6,6,WW,WW,,Answer,3dd196b6-a85a-4e3e-bb57-ec34241f8117
+Counterspell,Instant,U,2,2,UU,UU,,,cc187110-1148-4090-bbb8-e205694a39f5
+Predict,Instant,U,2,2,U,U,,,72a7faa0-cb0c-4841-84f3-e340b19fe045
+Blue Elemental Blast,Instant,U,1,1,U,U,,,65e1558c-6b09-4ddc-b520-f19f4fb972af
+Disenchant,Instant,W,2,2,W,W,,,a7e97fa9-4b72-4548-b854-5be5f18a6f1a
+"Lavinia, Azorius Renegade",Legendary Creature — Human Soldier,UW,2,2,WU,WU,,,81ba3a33-0e04-4f68-9a42-1dd717733b57
+Rest in Peace,Enchantment,W,2,2,W,W,,Synergy_Only RIP_Helm,087f9ad7-e74f-40e2-8102-1ed2925d0418
+Vendilion Clique,Legendary Creature — Faerie Wizard,U,3,3,UU,UU,,,244d4807-0802-41bc-9460-55ac38a28a72
+Ethersworn Canonist,Artifact Creature — Human Cleric,W,2,2,W,W,,,ec3471ad-b65c-4e35-a7d1-68da9555a9ec
+Mindbreak Trap,Instant — Trap,U,4,4,UU,UU,,,48712d36-5c13-4ded-87a4-68106da4a5cd
+Noble Hierarch,Creature — Human Druid,G,1,1,G,G,GUW,,98aa9424-5912-4bd6-9300-b3972a31d8af
+Scavenging Ooze,Creature — Ooze,G,2,2,G,G,,Synergy_Only GSZ,1ff25f67-36a7-4cfa-a2b1-2135b5b6fb67
+Green Sun's Zenith,Sorcery,G,1,1,G,G,,Synergy_Only GSZ,0d96b60b-a060-48ee-bb83-93f1c4a10669
+Bayou,Land — Swamp Forest,,0,0,,,BG,Dual,b76d1ae6-ad1d-4bac-b4c3-2e03e0e84d9b
+Dryad Arbor,Land Creature — Forest Dryad,G,0,0,,,G,Synergy_Only GSZ,e996cd67-739c-40f4-b276-0042acf26c71
+Verdant Catacombs,Land,,0,0,,,BG,Fetch,67d60b24-d429-4ded-90d9-06e49f28c396
+Collector Ouphe,Creature — Ouphe,G,2,2,G,G,,Synergy_Only GSZ,0c4bc9ea-a5fd-4f44-96a1-5448eee228c4
+Ramunap Excavator,Creature — Naga Cleric,G,3,3,G,G,,Synergy_Only GSZ,4f819ba4-52ef-4fdd-8e4c-5ae3b2f44db5
+Reclamation Sage,Creature — Elf Shaman,G,3,3,G,G,,Synergy_Only GSZ,032ec6e2-6cc3-4a97-9cc7-3233f5e11904
+Thoughtseize,Sorcery,B,1,1,B,B,,,edd8d1e8-be43-4c38-bb3a-83081fbaf0b5
+Tireless Tracker,Creature — Human Scout,G,3,3,G,G,,Synergy_Only GSZ,e6555cca-e608-4c87-b835-9cd47fd1f543
+Blazing Volley,Sorcery,R,1,1,R,R,,,3656338d-ca08-465b-b09a-d8d8d1196eec
+Dack Fayden,Legendary Planeswalker — Dack,RU,3,3,UR,UR,,,9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8
+Knight of the Reliquary,Creature — Human Knight,GW,3,3,GW,GW,,Synergy_Only GSZ,393e5331-4456-4ba3-b410-bb630bb053db
+"Omnath, Locus of Creation",Legendary Creature — Elemental,GRUW,4,4,RGWU,RGWU,GRUW,,cd133d30-51ff-4114-a7d7-029345f0f0d7
+Punishing Fire,Instant,R,2,2,R,R,,Synergy_Only Answer,1890ef1b-38e5-432d-b040-f33cea7814e7
+Field of the Dead,Land,,0,0,,,C,Synergy_Only,aa959340-c869-4caa-92c7-572bd8d23eef
+Grove of the Burnwillows,Land,,0,0,,,CGR,Synergy_Only,d33c3fbb-8306-4c2d-b0dd-88f12639da94
+Savannah,Land — Forest Plains,,0,0,,,GW,Dual,703243f0-8cb3-420f-958f-5fd4bde30293
+Taiga,Land — Mountain Forest,,0,0,,,GR,Dual,22e3cf1d-3559-4ce1-954c-8dc815342979
+Bojuka Bog,Land,,0,0,,,B,Synergy_Only Synergy_Only_SB,04b7362d-0490-4cb0-b5d7-2a7732f659ce
+Soul-Guide Lantern,Artifact,,1,1,,,,,1b5e6560-ff2e-4475-96cb-63f64c8a86db
+"Yorion, Sky Nomad",Legendary Creature — Bird Serpent,U,5,5,WUWU,WUWU,,Synergy_Only_SB,e15504a7-2b67-4185-b916-172145f10b19
+"Krark, the Thumbless",Legendary Creature — Goblin Wizard,R,2,2,R,R,,Synergy_Only,18e421c0-2879-4ad8-b027-397f168dfbc2
+Young Pyromancer,Creature — Human Shaman,R,2,2,R,R,,Threat,5fac139a-07d3-4e6c-98e3-d98b199f7a6f
+Chain Lightning,Sorcery,R,1,1,R,R,,Answer,8785f42f-87b9-4a0a-89ce-ea423649ba9c
+Forked Bolt,Sorcery,R,1,1,R,R,,Answer,e0548f0d-4aec-4c39-8c34-52bfa2bf7c60
+Day's Undoing,Sorcery,U,3,3,U,U,,Synergy_Only,810a6cf5-e9f4-48e1-8e06-3e0af85633ce
+Mystic Sanctuary,Land — Island,,0,0,,,U,Utility,17b60106-a4c7-410a-8ac3-ec8e74e29a7c
+Damping Sphere,Artifact,,2,2,,,,,fd50d76c-7654-47b9-a5b6-d075874e4357
+Engineered Explosives,Artifact,,0,0,,,,Answer,95fd897e-9086-42c4-8e0d-61bb02333c5f
+Abrade,Instant,R,2,2,R,R,,Answer,f9db72dc-9a5b-48a4-a86e-7464d9a2166a
+Grafdigger's Cage,Artifact,,1,1,,,,,753cb2b2-24ce-484f-a2d0-be6fd2c67ebd
+Izzet Staticaster,Creature — Human Wizard,RU,3,3,UR,UR,,Answer,d63adbed-07d3-44e4-83f8-1cbdfc186df4
+Dovin's Veto,Instant,UW,2,2,WU,WU,,,1b388371-f9ef-45b4-82a3-ca20a8cd7807
+Spell Snare,Instant,U,1,1,U,U,,,38877c68-b69b-4ee1-8e8f-5137a184a8f7
+Moat,Enchantment,W,4,4,WW,WW,,Answer,42208fea-8c24-451f-861d-6d70c0a7a502
+Shark Typhoon,Enchantment,U,6,6,U,U,,,8c0520fa-276b-4d21-b4a9-dce1fce59f6b
+Standstill,Enchantment,U,2,2,U,U,,Synergy_Only,fea4cb32-0329-4199-9abe-bff0cc45882a
+Celestial Purge,Instant,W,2,2,W,W,,,ec1f6188-2516-46ac-8a03-7b7285b23a62
+"Kaheera, the Orphanguard",Legendary Creature — Cat Beast,GW,3,3,GWGW,GWGW,,Synergy_Only Synergy_Only_SB,35428c77-9731-4d4d-8f75-e939a491cf86
+Null Rod,Artifact,,2,2,,,,,2f83ca86-e23d-40f7-8085-6928d8cfef9b
+Stony Silence,Enchantment,W,2,2,W,W,,,12c63a45-7eb2-4262-b571-3358182f5610
+"Vivien, Monsters' Advocate",Legendary Planeswalker — Vivien,G,5,5,GG,GG,,Threat,7256b03e-4fd5-4a0a-9b20-7b88870edfec
+Entreat the Angels,Sorcery,W,3,3,WWW,WWW,,Threat,b349f018-c20b-48b0-9e65-d5fd56b24b88
+Archmage's Charm,Instant,U,3,3,UUU,UUU,,Answer,85cbb035-25df-43bb-ae06-ab098f448b02
+Engineered Plague,Enchantment,B,3,3,B,B,,Answer,dc8210b4-8e17-4156-994b-e95e215e3e34
+Ancient Tomb,Land,,0,0,,,C,Synergy_Only,23467047-6dba-4498-b783-1ebc4f74b8c2
+Path to Exile,Instant,W,1,1,W,W,,Answer,d683d985-9888-4d21-8b5f-69e69ce4a03b
+Deafening Silence,Enchantment,W,1,1,W,W,,,6284ef01-d17d-4584-aecb-1b841ae638e5
+Baleful Strix,Artifact Creature — Bird,BU,2,2,UB,UB,,Answer,37688720-03de-4eca-a82d-a0afe8d58adc
+Drown in the Loch,Instant,BU,2,2,UB,UB,,Answer,0f264e5b-264e-4e97-9a8d-8ae1d6a286ce
+Opposition Agent,Creature — Human Rogue,B,3,3,B,B,,,1f438b8f-fe23-4f3b-ab2e-f6c33676c462
+Field of Ruin,Land,,0,0,,,C,Synergy_Only,f825c98f-a327-440b-8c0d-ebe02e23bfb7
+Force of Vigor,Instant,G,0,4,,GG,,,5f627e45-deee-4a4f-8128-57b0d8ebc553
+Leyline of the Void,Enchantment,,4,4,BB,BB,,Synergy_Only,f4e32fc1-1b8d-441e-8e76-71f19f98e925
+Notion Thief,Creature — Human Rogue,BU,4,4,UB,UB,,,f8dab16e-1d50-443e-9431-8b6f1cf61c9c
+Toxic Deluge,Sorcery,B,3,3,B,B,,Answer,afaef788-34d1-460b-b884-9d7ae6ddeb18
+Badlands,Land — Swamp Mountain,,0,0,,,BR,Dual,13ff3222-91cb-4796-a34e-899ed817694c
+Cephalid Coliseum,Land,,0,0,,,U,Utility,c733873e-77db-471f-8061-139db24f7e7c
+Crop Rotation,Instant,G,1,1,G,G,,Synergy_Only Synergy_Only_SB,28b46183-c62f-47b1-9fee-3ba148202cab
+Life from the Loam,Sorcery,G,2,2,G,G,,Synergy_Only Synergy_Only_SB,ac8fba34-512c-4f24-999a-ab72f1ce4acb
+Arid Mesa,Land,,0,0,,,RW,Fetch,c5acf2a5-40f4-433d-a74d-1cb56c521464
+Peacekeeper,Creature — Human,W,3,3,W,W,,,e82ce5c6-1e42-4e87-b696-67aa3822ec9c
+Sevinne's Reclamation,Sorcery,W,3,3,W,W,,,1b9f9f5b-8712-4f00-90cb-1b7b9970eccc
+Return to Nature,Instant,G,2,2,G,G,,,777b8ec4-a783-4297-96b7-4f200d0eb734
+Brazen Borrower,Creature — Faerie Rogue // Instant — Adventure,U,3,3,UUU,UUU,,Threat,c7b044c3-3cfa-407e-bf20-2875e8e04b7b
+Intuition,Instant,U,3,3,U,U,,,3c9faba7-f2d3-4978-be94-020dc8003dc0
+Orim's Chant,Instant,W,1,1,W,W,,Synergy_Only,26d3a818-7faf-443a-a6bd-9773edaedf17
+Trade Routes,Enchantment,U,2,2,U,U,,Synergy_Only,120fa67e-e5e0-4c23-9a78-d6171d357aee
+Palace Jailer,Creature — Human Soldier,W,4,4,WW,WW,,Answer,180eda7c-fca2-403b-85cd-8ffebaf9f408
+Tormod's Crypt,Artifact,,0,0,,,,,1573f7f9-672c-421a-b1ac-3d0d8aea59ca
+Dread of Night,Enchantment,B,1,1,B,B,,,b431a73b-cf4c-4154-810f-82b7c6099e66
+Duskmantle Guildmage,Creature — Human Wizard,BU,2,2,UB,UB,,Synergy_Only Worldgorger,ec44ca05-6b10-4be2-b4df-967535967fce
+Worldgorger Dragon,Creature — Nightmare Dragon,,6,6,,,,Synergy_Only Worldgorger,a628186d-b7d9-40a5-9ae2-fbc9d2a14c7c
+Entomb,Instant,B,1,1,B,B,,Synergy_Only Worldgorger Threat,299fc083-0834-4064-8344-f895aff68867
+Animate Dead,Enchantment — Aura,B,2,2,B,B,,Synergy_Only Worldgorger Threat,c0d8fef4-65f4-4769-982d-b397d2b7e977
+From the Ashes,Sorcery,R,4,4,R,R,,,3e229329-65e4-4240-959a-b97b26908c0e
+Pernicious Deed,Enchantment,BG,3,3,BG,BG,,Answer,62e44e0d-eda0-4275-8367-49dab9a087c3
+"Ishkanah, Grafwidow",Legendary Creature — Spider,G,5,5,G,G,,Synergy_Only Worldgorger Threat,6f4861f4-1b3b-4dbc-b55b-196075d0a693
+"Liliana, the Last Hope",Legendary Planeswalker — Liliana,B,3,3,BB,BB,,Threat Answer,64a9a6b4-26b5-4d23-be86-85c54e9c4727
+Of One Mind,Sorcery,U,3,3,U,U,,Synergy_Only,5a23c734-cbfb-419a-9bf1-126cb07fe427
+Living Wish,Sorcery,G,2,2,G,G,,Synergy_Only,b9d186f5-1c92-4539-a5b5-e7fbd4b726fe
+Faerie Macabre,Creature — Faerie Rogue,,,3,,BB,,,c7d8beb6-472c-4758-9876-e8cbf98f4f72
+Magus of the Moon,Creature — Human Wizard,R,3,3,R,R,,,6800d01c-345d-4932-a2a4-8df0fb1902f2
+Yixlid Jailer,Creature — Zombie Wizard,B,2,2,B,B,,,1f55303e-1369-4e42-9ed4-36609887c7c1
+Utopia Sprawl,Enchantment — Aura,G,1,1,G,G,BGRUW,,00d8efa6-a2d9-4249-8da7-b45173675329
+Skyclave Apparition,Creature — Kor Spirit,W,3,3,WW,WW,,Answer,d90af00a-d322-4265-9954-7b1e80702e18
+"Mikokoro, Center of the Sea",Legendary Land,,0,0,,,C,Synergy_Only,a4580a1d-141e-449b-9018-e0258130634b
+Stoneforge Mystic,Creature — Kor Artificer,W,2,2,W,W,,Synergy_Only Stoneblade Threat,358789f9-7d87-411d-919e-d597da665cbd
+Sword of Fire and Ice,Artifact — Equipment,,3,3,,,,Synergy_Only Stoneblade Threat,2ccdc60a-49a9-44b9-a7af-0ebf18b26785
+Umezawa's Jitte,Legendary Artifact — Equipment,,2,2,,,,Synergy_Only Stoneblade Answer,1da10d5c-36a8-473f-a5d4-782ad61d8057
+Nature's Claim,Instant,G,1,1,G,G,,,6d4e558e-9109-4918-a082-fdcbaffd516b
+"Garruk, Primal Hunter",Legendary Planeswalker — Garruk,G,5,5,GGG,GGG,,Threat,298a7e1a-b254-442e-bc1d-2a3e5296d849
+Ethereal Forager,Creature — Elemental Whale,U,6,6,UU,UU,,Threat,a3f3a5b5-b931-4961-828c-501a33e5a0a0
+Murderous Rider,Creature — Zombie Knight // Instant — Adventure,B,3,3,BBBB,BBBB,,Answer,1080c5b5-6651-4c6a-93e6-099fbe389e26
+Eliminate,Instant,B,2,2,B,B,,Answer,cf307f81-488c-4df5-8b08-ba46e3e7f3d9
+Snuff Out,Instant,B,4,4,B,B,,Answer,324824cb-f938-401c-b9b5-d8908b431ef0
+Extirpate,Instant,B,1,1,B,B,,,fa857e9d-dfe4-4348-9c1f-16aa240d69cd
+Gurmag Angler,Creature — Zombie Fish,B,7,7,B,B,,Threat,315772f2-abd2-4681-b8c8-1db4b0ccbbcd
+Hydroblast,Instant,U,1,1,U,U,,,b94c0336-2ca8-4bb1-bb1f-e9babd1826ad
+"Tasigur, the Golden Fang",Legendary Creature — Human Shaman,B,6,6,B,B,,Threat,837e3fde-241f-4826-ad04-f146fdcf2278
+"Ashiok, Dream Render",Legendary Planeswalker — Ashiok,U,3,3,UU,UBUB,,,93723b12-db34-4047-885e-8606415b1553
+Dark Confidant,Creature — Human Wizard,B,2,2,B,B,,,2068185c-1b50-47d0-aa3f-bf505d199428
+True-Name Nemesis,Creature — Merfolk Rogue,U,3,3,UU,UU,,Threat,112322ad-8f66-4cd4-98a1-f425d61a69ce
+Batterskull,Artifact — Equipment,,5,5,,,,Synergy_Only Stoneblade,d12e5ce0-5705-4c35-9a93-b883db52c80c
+Marsh Flats,Land,,0,0,,,WB,Fetch,dab520d0-20b4-4273-ba6b-eb07f85ea433
+Scrubland,Land — Plains Swamp,,0,0,,,BW,Dual,c8d95ca8-7d12-4072-aeaf-e20f248c7e39
+Ravenous Trap,Instant — Trap,B,4,4,BB,BB,,,e0bea449-7601-48ee-a522-f1bbe6905f6d
+Tarmogoyf,Creature — Lhurgoyf,G,2,2,G,G,,Threat,45900b2f-f6a9-4c42-9642-008f3c1cf6dd
+Enlightened Tutor,Instant,W,1,1,W,W,,Synergy_Only RIP_Helm,c5229c17-b7be-4b05-b683-f2277edc4849
+Helm of Obedience,Artifact,,4,4,,,,Synergy_Only RIP_Helm Threat,16cadebf-c484-41f8-9e38-5c2c528f5b54
+Detention Sphere,Enchantment,UW,3,3,WU,WU,,Answer,0a0b376d-7824-4ba5-8bc9-bc0be12800c5
+Energy Field,Enchantment,U,2,2,U,U,,Synergy_Only RIP_Helm Answer,fbf7a7f4-9915-4a53-84b3-e55e9f487323
+Seat of the Synod,Artifact Land,,0,0,,,U,Synergy_Only,39451b4d-cd7a-40da-b457-cb51b609173f
+Seal of Cleansing,Enchantment,W,2,2,W,W,,,a75dbe70-7e3e-446f-9a76-9fbb414f2e7c
+Geier Reach Sanitarium,Legendary Land,,0,0,,,C,Synergy_Only,7b9fafe7-d26a-4ed5-b4c4-ce13763770b5
+Abundant Growth,Enchantment — Aura,G,1,1,G,G,BGRUW,,947a2665-2f4d-4193-8768-118f85334549
+Humility,Enchantment,W,4,4,WW,WW,,Answer,ed7bdb3e-5c51-4547-9266-76a791e0b2b0
+Aether Gust,Instant,U,2,2,U,U,,,ecf1e378-d6bc-4ee0-800e-eb8a955d781f
+Gilded Goose,Creature — Bird,G,1,1,G,G,BGRUW,Synergy_Only GSZ,f2f09757-1931-47c0-a5f0-39280445489d
+Questing Beast,Legendary Creature — Beast,G,4,4,GG,GG,,Synergy_Only GSZ Threat,b685757b-521e-4353-a233-97052359723d
+Wooded Foothills,Land,,0,0,,,RG,Fetch,6587a463-a108-4854-b6d1-944e89b8c8a4
+Silundi Vision,Instant // Land,,3,3,,,U,,b0182ca0-f353-4012-9121-6f4ac9f7a046
+Rough // Tumble,Sorcery // Sorcery,R,8,8,RR,RR,,Answer,5e2bf834-7f92-4da5-beac-0dad817dc233
+Griselbrand,Legendary Creature — Demon,B,8,8,BBBB,BBBB,,Threat,f759d112-76db-4091-a22b-b9f19ab6fa5f
+"Kaya, Orzhov Usurper",Legendary Planeswalker — Kaya,BW,3,3,WB,WB,,Threat Answer,7dd4a1a1-d5f4-4ac7-a9f6-34af411f070b
+Delver of Secrets,Creature — Human Wizard // Creature — Human Insect,,1,1,,,,Threat,edd531b9-f615-4399-8c8c-1c5e18c4acbf
+Dismember,Instant,,3,3,,,,Answer,fd74f8eb-0253-42dd-8277-186d4934da38
+Gut Shot,Instant,,1,1,,,,Answer,9afb3b6e-4909-4efa-aa79-81c0229411c9
+Island,Basic Land — Island,,0,0,,,U,,b2c6aa39-2d2a-459c-a555-fb48ba993373
+Winter Orb,Artifact,,2,2,,,,,1dcbd583-3388-4b34-a7cd-131648aa6abd
+Felidar Retreat,Enchantment,W,4,4,W,W,,Threat,16629f59-bae8-4c19-bf50-443eb0ed6856
+Revoke Existence,Sorcery,W,2,2,W,W,,,289e1a7c-b301-4395-baf8-e9a1c6d38aab
